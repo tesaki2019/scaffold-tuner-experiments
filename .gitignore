@@ -31,3 +31,4 @@ output.png
 
 # Local clone of scaffold-tuner
 external/scaffold-tuner/
+external/reinvent4_priors/*.prior
