@@ -1,0 +1,33 @@
+method,target,direction,task,n_successful_candidates,median_similarity,murcko_retention_percent
+scaffold-tuner,HBD,increase,HBD increase,5245,0.725,59.923736892278356
+scaffold-tuner,HBD,decrease,HBD decrease,3225,0.7358490566037735,99.93798449612403
+scaffold-tuner,HBA,increase,HBA increase,4182,0.75,99.88043998087039
+scaffold-tuner,HBA,decrease,HBA decrease,4550,0.7428571428571429,79.86813186813187
+scaffold-tuner,RotB,increase,RotB increase,153,0.6727272727272727,100.0
+scaffold-tuner,RotB,decrease,RotB decrease,1855,0.7222222222222222,83.45013477088948
+scaffold-tuner,Aromatic rings,increase,Aromatic rings increase,4196,0.6964285714285714,0.0
+scaffold-tuner,Aromatic rings,decrease,Aromatic rings decrease,0,,
+Random local editing,HBD,increase,HBD increase,9437,0.7272727272727273,88.7252304757868
+Random local editing,HBD,decrease,HBD decrease,2626,0.7142857142857143,86.78598629093679
+Random local editing,HBA,increase,HBA increase,11956,0.717948717948718,74.59016393442623
+Random local editing,HBA,decrease,HBA decrease,2349,0.7068965517241379,63.04810557684121
+Random local editing,RotB,increase,RotB increase,3343,0.7551020408163265,91.38498354771164
+Random local editing,RotB,decrease,RotB decrease,778,0.7441860465116279,77.6349614395887
+Random local editing,Aromatic rings,increase,Aromatic rings increase,11,0.4339622641509434,0.0
+Random local editing,Aromatic rings,decrease,Aromatic rings decrease,896,0.5092624356775299,0.0
+CReM,HBD,increase,HBD increase,6500,0.7543859649122807,91.0
+CReM,HBD,decrease,HBD decrease,4009,0.74,88.05188326265902
+CReM,HBA,increase,HBA increase,9269,0.7547169811320755,90.85122451181358
+CReM,HBA,decrease,HBA decrease,2742,0.75,87.527352297593
+CReM,RotB,increase,RotB increase,11286,0.7567567567567568,86.54084706716286
+CReM,RotB,decrease,RotB decrease,423,0.7222222222222222,62.88416075650118
+CReM,Aromatic rings,increase,Aromatic rings increase,0,,
+CReM,Aromatic rings,decrease,Aromatic rings decrease,0,,
+REINVENT4 Mol2Mol,HBD,increase,HBD increase,9307,0.5,34.29676587514774
+REINVENT4 Mol2Mol,HBD,decrease,HBD decrease,11315,0.5,35.77551922227132
+REINVENT4 Mol2Mol,HBA,increase,HBA increase,13233,0.515625,32.60787425375954
+REINVENT4 Mol2Mol,HBA,decrease,HBA decrease,12465,0.5116279069767442,31.873245086241475
+REINVENT4 Mol2Mol,RotB,increase,RotB increase,12713,0.525,31.951545661920868
+REINVENT4 Mol2Mol,RotB,decrease,RotB decrease,9792,0.5182954038375724,34.29330065359477
+REINVENT4 Mol2Mol,Aromatic rings,increase,Aromatic rings increase,10515,0.5254237288135594,0.0
+REINVENT4 Mol2Mol,Aromatic rings,decrease,Aromatic rings decrease,5312,0.5072463768115942,0.0

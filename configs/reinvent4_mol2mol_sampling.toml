@@ -1,0 +1,12 @@
+run_type = "sampling"
+device = "cpu"
+
+[parameters]
+model_file = "/Users/tesak/github/scaffold-tuner-experiments/external/reinvent4_priors/mol2mol_medium_similarity.prior"
+smiles_file = "/Users/tesak/github/scaffold-tuner-experiments/data/reinvent4_mol2mol_input.smi"
+sample_strategy = "multinomial"
+temperature = 1.0
+output_file = "/Users/tesak/github/scaffold-tuner-experiments/results/reinvent4_mol2mol_raw.csv"
+num_smiles = 100
+unique_molecules = false
+randomize_smiles = false

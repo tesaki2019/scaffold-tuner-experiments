@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Temporary files
+*.tmp
+*.log
+
+# Large/intermediate result files
+results/*.csv
+results/*.parquet
+results/*.pkl
+
+# REINVENT4 generated files
+configs/reinvent4/*.log
