@@ -24,3 +24,10 @@ results/*.pkl
 
 # REINVENT4 generated files
 configs/reinvent4/*.log
+
+# Local environment / temporary files
+.zshrc
+output.png
+
+# Local clone of scaffold-tuner
+external/scaffold-tuner/
