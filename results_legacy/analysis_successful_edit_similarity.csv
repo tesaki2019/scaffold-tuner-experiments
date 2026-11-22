@@ -1,0 +1,31 @@
+method,target,direction,n_successful_candidates,median_successful_edit_similarity,mean_successful_edit_similarity,task
+CReM,Aromatic rings,decrease,36,0.6667067307692307,0.41840129524677655,Aromatic rings decrease
+CReM,HBA,decrease,2910,0.75,0.7382786455423537,HBA decrease
+CReM,HBA,increase,9661,0.7543859649122807,0.7452684222790591,HBA increase
+CReM,HBD,decrease,4229,0.7391304347826086,0.7254223309782256,HBD decrease
+CReM,HBD,increase,6783,0.75,0.7422943766970571,HBD increase
+CReM,RotB,decrease,481,0.711864406779661,0.7051226382096982,RotB decrease
+CReM,RotB,increase,11789,0.7560975609756098,0.7457966579689629,RotB increase
+REINVENT4 Mol2Mol,Aromatic rings,decrease,5312,0.5072463768115942,0.5012160336394541,Aromatic rings decrease
+REINVENT4 Mol2Mol,Aromatic rings,increase,10515,0.5254237288135594,0.5208749735422705,Aromatic rings increase
+REINVENT4 Mol2Mol,HBA,decrease,12465,0.5116279069767442,0.5104460972250447,HBA decrease
+REINVENT4 Mol2Mol,HBA,increase,13233,0.515625,0.5153844988303454,HBA increase
+REINVENT4 Mol2Mol,HBD,decrease,11315,0.5,0.4971462827285448,HBD decrease
+REINVENT4 Mol2Mol,HBD,increase,9307,0.5,0.49477732139182606,HBD increase
+REINVENT4 Mol2Mol,RotB,decrease,9792,0.5182954038375724,0.5155172901898476,RotB decrease
+REINVENT4 Mol2Mol,RotB,increase,12713,0.525,0.5235320976514677,RotB increase
+Random local editing,Aromatic rings,decrease,950,0.5092624356775299,0.5036152260202847,Aromatic rings decrease
+Random local editing,Aromatic rings,increase,12,0.47659651669085634,0.46083585862575904,Aromatic rings increase
+Random local editing,HBA,decrease,2559,0.7068965517241379,0.6932517178961641,HBA decrease
+Random local editing,HBA,increase,12822,0.717391304347826,0.7055075451871424,HBA increase
+Random local editing,HBD,decrease,2873,0.7142857142857143,0.7058779316245758,HBD decrease
+Random local editing,HBD,increase,10132,0.725,0.7140280340128844,HBD increase
+Random local editing,RotB,decrease,837,0.7435897435897436,0.7110939981740164,RotB decrease
+Random local editing,RotB,increase,3633,0.7547169811320755,0.7428768078628131,RotB increase
+scaffold-tuner,Aromatic rings,increase,4382,0.6949152542372882,0.6813113360340964,Aromatic rings increase
+scaffold-tuner,HBA,decrease,4790,0.7413793103448276,0.7206436992199565,HBA decrease
+scaffold-tuner,HBA,increase,4326,0.75,0.7342083409070275,HBA increase
+scaffold-tuner,HBD,decrease,3390,0.7333333333333333,0.7093410375912398,HBD decrease
+scaffold-tuner,HBD,increase,5411,0.723404255319149,0.7061442104011728,HBD increase
+scaffold-tuner,RotB,decrease,1962,0.72,0.7024226481949515,RotB decrease
+scaffold-tuner,RotB,increase,164,0.6666666666666666,0.6519371352668899,RotB increase

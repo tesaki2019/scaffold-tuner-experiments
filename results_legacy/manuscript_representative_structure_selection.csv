@@ -1,0 +1,13 @@
+target,direction,chembl_id,method,generated_smiles,exact_target_success,target_delta,collateral_change_score,tanimoto_to_parent,delta_hbd,delta_hba,delta_rotb,delta_ar
+HBD,increase,CHEMBL101688,scaffold-tuner,CC1(C)Oc2ccc(C#N)cc2[C@@H](n2ccccc2=O)C1(O)CO,True,1.0,2.0,0.7777777777777778,1.0,1.0,1.0,0.0
+HBD,increase,CHEMBL101688,Random local editing,CC1(C)Oc2ccc(C#N)cc2[C@@H](n2ccccc2=N)[C@]1(C)O,True,1.0,0.0,0.7692307692307693,1.0,0.0,0.0,0.0
+HBD,increase,CHEMBL101688,CReM,,False,,,,,,,
+HBD,increase,CHEMBL101688,REINVENT4 Mol2Mol,CC1(C)Oc2ccc(C#N)cc2C(NC(=O)c2ccc(Cl)c(Cl)c2)C1(C)O,True,1.0,1.0,0.45454545454545453,1.0,0.0,1.0,0.0
+Aromatic rings,increase,CHEMBL107590,scaffold-tuner,CC(C)(Cc1ccccc1)c1ccc(C#N)cc1NC(=O)Nc1cnccn1,True,1.0,3.0,0.7272727272727273,0.0,0.0,3.0,1.0
+Aromatic rings,increase,CHEMBL107590,Random local editing,CC(C)(C)c1ccc(C#N)cc1NC(=S)Nc1cnccn1,False,0.0,0.0,0.7755102040816326,0.0,0.0,0.0,0.0
+Aromatic rings,increase,CHEMBL107590,CReM,CC(C)(N)c1ccc(C#N)cc1NC(=O)Nc1cnccn1,False,0.0,3.0,0.8333333333333334,1.0,1.0,1.0,0.0
+Aromatic rings,increase,CHEMBL107590,REINVENT4 Mol2Mol,CC(C)(C)c1ccc(C(C)(C)C)c(NC(=O)Nc2cccc3nccnc23)c1,True,1.0,1.0,0.423728813559322,0.0,-1.0,0.0,1.0
+RotB,increase,CHEMBL100715,scaffold-tuner,CCC(N)CC(NCc1ccccc1)C(=O)N1CCCCC1,True,1.0,0.0,0.6666666666666666,0.0,0.0,1.0,0.0
+RotB,increase,CHEMBL100715,Random local editing,CNCC[C@H](NCc1ccccc1)C(=O)N1CCCCC1,True,1.0,0.0,0.7727272727272727,0.0,0.0,1.0,0.0
+RotB,increase,CHEMBL100715,CReM,NCCC[C@H](NCc1ccccc1)C(=O)N1CCCCC1,True,1.0,0.0,0.8571428571428571,0.0,0.0,1.0,0.0
+RotB,increase,CHEMBL100715,REINVENT4 Mol2Mol,COc1ccccc1CN[C@@H](CCN)C(=O)N1CCCCC1,True,1.0,1.0,0.66,0.0,1.0,1.0,0.0

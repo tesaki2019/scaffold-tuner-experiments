@@ -1,0 +1,5 @@
+method,total_candidates,parents_with_candidates,mean_candidates_per_parent,median_candidates_per_parent,min_candidates_per_parent,parents_with_100_candidates,percent_parents_with_100_candidates
+scaffold-tuner,34499,818,34.499,34.0,0,13,1.3
+Random local editing,30248,1000,30.248,30.0,11,0,0.0
+CReM,24992,860,24.992,20.5,0,6,0.6
+REINVENT4 Mol2Mol,61388,929,61.388,65.0,0,0,0.0

@@ -1,0 +1,31 @@
+method,target,direction,n_successful_candidates,median_collateral_change,mean_collateral_change,zero_collateral_percent,task
+CReM,Aromatic rings,decrease,36,3.0,8.13888888888889,8.333333333333332,Aromatic rings decrease
+CReM,HBA,decrease,2910,1.0,1.297938144329897,18.59106529209622,HBA decrease
+CReM,HBA,increase,9661,2.0,1.5934168305558432,11.479142945864817,HBA increase
+CReM,HBD,decrease,4229,1.0,1.437692125798061,10.238827145897375,HBD decrease
+CReM,HBD,increase,6783,2.0,1.7007223942208463,12.59029927760578,HBD increase
+CReM,RotB,decrease,481,1.0,0.8004158004158004,35.96673596673597,RotB decrease
+CReM,RotB,increase,11789,1.0,0.9007549410467385,38.96852998557978,RotB increase
+REINVENT4 Mol2Mol,Aromatic rings,decrease,5312,2.0,2.6658509036144578,8.207831325301203,Aromatic rings decrease
+REINVENT4 Mol2Mol,Aromatic rings,increase,10515,2.0,2.6846409890632428,7.132667617689016,Aromatic rings increase
+REINVENT4 Mol2Mol,HBA,decrease,12465,2.0,1.9094263939029281,14.215804251905334,HBA decrease
+REINVENT4 Mol2Mol,HBA,increase,13233,2.0,2.0524446459608554,12.332804352754478,HBA increase
+REINVENT4 Mol2Mol,HBD,decrease,11315,2.0,2.4139637649138312,7.803800265134776,HBD decrease
+REINVENT4 Mol2Mol,HBD,increase,9307,2.0,2.464703986246911,8.122918233587622,HBD increase
+REINVENT4 Mol2Mol,RotB,decrease,9792,1.0,1.4972426470588236,19.975490196078432,RotB decrease
+REINVENT4 Mol2Mol,RotB,increase,12713,1.0,1.4811610162825455,18.681664437976874,RotB increase
+Random local editing,Aromatic rings,decrease,950,0.0,0.2810526315789474,74.52631578947368,Aromatic rings decrease
+Random local editing,Aromatic rings,increase,12,1.0,0.75,25.0,Aromatic rings increase
+Random local editing,HBA,decrease,2559,1.0,0.652989449003517,38.33528722157092,HBA decrease
+Random local editing,HBA,increase,12822,1.0,0.8525970987365465,25.261269692715643,HBA increase
+Random local editing,HBD,decrease,2873,1.0,0.6801253045596937,36.05986773407588,HBD decrease
+Random local editing,HBD,increase,10132,1.0,1.0228977497039085,9.346624555862613,HBD increase
+Random local editing,RotB,decrease,837,1.0,0.8148148148148148,32.25806451612903,RotB decrease
+Random local editing,RotB,increase,3633,1.0,0.8670520231213873,44.64629782548858,RotB increase
+scaffold-tuner,Aromatic rings,increase,4382,3.0,2.624372432679142,0.06846188954815154,Aromatic rings increase
+scaffold-tuner,HBA,decrease,4790,1.0,1.6881002087682673,6.8267223382045925,HBA decrease
+scaffold-tuner,HBA,increase,4326,2.0,1.6287563569116967,3.9990753582986596,HBA increase
+scaffold-tuner,HBD,decrease,3390,2.0,1.9578171091445429,0.5309734513274336,HBD decrease
+scaffold-tuner,HBD,increase,5411,3.0,2.673627795231935,0.6653114026982073,HBD increase
+scaffold-tuner,RotB,decrease,1962,2.0,1.6029561671763506,10.9072375127421,RotB decrease
+scaffold-tuner,RotB,increase,164,0.0,0.036585365853658534,96.34146341463415,RotB increase

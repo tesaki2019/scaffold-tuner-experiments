@@ -1,0 +1,30 @@
+method,task,n_successful_candidates,median_collateral_change_score,zero_collateral_candidate_percent
+scaffold-tuner,HBD increase,5245,3.0,0.6863679694947569
+scaffold-tuner,HBD decrease,3225,2.0,0.46511627906976744
+scaffold-tuner,HBA increase,4182,2.0,3.873744619799139
+scaffold-tuner,HBA decrease,4550,1.0,6.571428571428571
+scaffold-tuner,RotB increase,153,0.0,96.07843137254902
+scaffold-tuner,RotB decrease,1855,2.0,11.212938005390836
+scaffold-tuner,Aromatic rings increase,4196,3.0,0.07149666348903717
+Random local editing,HBD increase,9437,1.0,9.219031471866058
+Random local editing,HBD decrease,2626,1.0,35.148514851485146
+Random local editing,HBA increase,11956,1.0,25.242556038808967
+Random local editing,HBA decrease,2349,1.0,37.84589186888038
+Random local editing,RotB increase,3343,1.0,45.07927011666168
+Random local editing,RotB decrease,778,1.0,31.10539845758355
+Random local editing,Aromatic rings increase,11,1.0,27.27272727272727
+Random local editing,Aromatic rings decrease,896,0.0,74.44196428571429
+CReM,HBD increase,6500,2.0,12.753846153846155
+CReM,HBD decrease,4009,1.0,10.35170865552507
+CReM,HBA increase,9269,2.0,11.58701046499083
+CReM,HBA decrease,2742,1.0,19.037199124726477
+CReM,RotB increase,11286,1.0,39.2876129718235
+CReM,RotB decrease,423,1.0,38.53427895981088
+REINVENT4 Mol2Mol,HBD increase,9307,2.0,8.122918233587622
+REINVENT4 Mol2Mol,HBD decrease,11315,2.0,7.803800265134776
+REINVENT4 Mol2Mol,HBA increase,13233,2.0,12.332804352754478
+REINVENT4 Mol2Mol,HBA decrease,12465,2.0,14.215804251905334
+REINVENT4 Mol2Mol,RotB increase,12713,1.0,18.681664437976874
+REINVENT4 Mol2Mol,RotB decrease,9792,1.0,19.975490196078432
+REINVENT4 Mol2Mol,Aromatic rings increase,10515,2.0,7.132667617689016
+REINVENT4 Mol2Mol,Aromatic rings decrease,5312,2.0,8.207831325301203

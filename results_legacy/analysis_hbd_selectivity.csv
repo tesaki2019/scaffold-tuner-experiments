@@ -1,0 +1,5 @@
+method,n_candidates_in_hbd_increase_pool,selective_candidates,selective_candidate_percent,selective_parent_success_percent_all_1000,strict_candidates_hbd_plus1_hba_0,strict_candidate_percent,strict_parent_success_percent_all_1000
+scaffold-tuner,5411,2229,41.19386435039734,68.1,2228,41.175383478100166,68.0
+Random local editing,30248,1539,5.0879396984924625,72.3,1240,4.099444591377942,67.2
+CReM,24992,1844,7.3783610755441735,34.3,1704,6.8181818181818175,31.6
+REINVENT4 Mol2Mol,61388,5559,9.055515735974458,70.0,3004,4.893464520753241,63.6

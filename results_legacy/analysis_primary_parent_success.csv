@@ -1,0 +1,33 @@
+method,target,direction,parent_success_rate_percent
+scaffold-tuner,Aromatic rings,decrease,0.0
+scaffold-tuner,Aromatic rings,increase,68.2
+scaffold-tuner,HBA,decrease,58.9
+scaffold-tuner,HBA,increase,67.9
+scaffold-tuner,HBD,decrease,48.1
+scaffold-tuner,HBD,increase,68.10000000000001
+scaffold-tuner,RotB,decrease,50.6
+scaffold-tuner,RotB,increase,15.0
+Random local editing,Aromatic rings,decrease,62.1
+Random local editing,Aromatic rings,increase,1.0999999999999999
+Random local editing,HBA,decrease,85.7
+Random local editing,HBA,increase,100.0
+Random local editing,HBD,decrease,73.3
+Random local editing,HBD,increase,100.0
+Random local editing,RotB,decrease,53.800000000000004
+Random local editing,RotB,increase,85.3
+CReM,Aromatic rings,decrease,0.3
+CReM,Aromatic rings,increase,0.0
+CReM,HBA,decrease,42.5
+CReM,HBA,increase,72.5
+CReM,HBD,decrease,43.3
+CReM,HBD,increase,67.5
+CReM,RotB,decrease,26.200000000000003
+CReM,RotB,increase,82.6
+REINVENT4 Mol2Mol,Aromatic rings,decrease,50.1
+REINVENT4 Mol2Mol,Aromatic rings,increase,88.0
+REINVENT4 Mol2Mol,HBA,decrease,82.39999999999999
+REINVENT4 Mol2Mol,HBA,increase,90.9
+REINVENT4 Mol2Mol,HBD,decrease,68.0
+REINVENT4 Mol2Mol,HBD,increase,87.6
+REINVENT4 Mol2Mol,RotB,decrease,78.5
+REINVENT4 Mol2Mol,RotB,increase,91.10000000000001

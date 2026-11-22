@@ -1,0 +1,5 @@
+method,HBD increase,HBD decrease,HBA increase,HBA decrease,RotB increase,RotB decrease,Aromatic rings increase,Aromatic rings decrease
+scaffold-tuner,68.10000000000001,48.1,67.9,58.9,15.0,50.6,68.2,0.0
+Random local editing,100.0,73.3,100.0,85.7,85.3,53.800000000000004,1.0999999999999999,62.1
+CReM,67.5,43.3,72.5,42.5,82.6,26.200000000000003,0.0,0.3
+REINVENT4 Mol2Mol,87.6,68.0,90.9,82.39999999999999,91.10000000000001,78.5,88.0,50.1

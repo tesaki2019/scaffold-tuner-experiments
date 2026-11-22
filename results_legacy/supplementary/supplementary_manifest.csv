@@ -1,0 +1,11 @@
+item,file
+Table S1,Table_S1_candidate_generation_and_applicability.csv
+Table S2,Table_S2_candidate_budget_success.csv
+Table S3a,Table_S3a_QED_SA_descriptive_statistics.csv
+Table S3b,Table_S3b_QED_SA_Friedman_tests.csv
+Table S3c,Table_S3c_QED_SA_Wilcoxon_Holm.csv
+Figure S1,figures/Figure_S1_delta_QED.png
+Figure S2,figures/Figure_S2_delta_SA.png
+Table S4,Table_S4_successful_edit_locality.csv
+Table S5,Table_S5_selectivity_and_collateral_changes.csv
+Table S6,Table_S6_sensitivity_all1000_vs_common_subset.csv

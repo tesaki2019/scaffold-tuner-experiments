@@ -1,0 +1,5 @@
+method,counting_unit,total_retained_candidates,units_with_candidates,median_candidates_per_unit,mean_candidates_per_unit,max_candidates_per_unit
+scaffold-tuner,parent-task,34499,4628,5.0,4.312375,30
+Random local editing,parent,30248,1000,30.0,30.248,50
+CReM,parent,24992,860,20.5,24.992,100
+REINVENT4 Mol2Mol,parent,61388,929,65.0,61.388,97

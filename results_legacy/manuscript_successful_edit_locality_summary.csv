@@ -1,0 +1,5 @@
+method,mean_parent_success_across_tasks_percent,median_of_task_median_success_similarity,mean_task_successful_murcko_retention_percent
+scaffold-tuner,48.07588805166846,0.723404255319149,74.60515621564657
+Random local editing,70.11571582346609,0.7158385093167702,60.53301770648779
+CReM,42.59956942949408,0.75,71.84424403490613
+REINVENT4 Mol2Mol,85.65662002152852,0.5136264534883721,25.099781344116963

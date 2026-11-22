@@ -1,0 +1,5 @@
+method,input_parents,input_applicability_percent,parents_with_output,generation_coverage_percent
+scaffold-tuner,1000,100.0,818,81.8
+Random local editing,1000,100.0,1000,100.0
+CReM,1000,100.0,860,86.0
+REINVENT4 Mol2Mol,1000,92.9,929,92.9
