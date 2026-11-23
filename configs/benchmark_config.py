@@ -3,17 +3,23 @@
 # =============================================================================
 
 # ---------------------------------------------------------------------------
-# Parent datasets
+# Repository root (absolute, independent of working directory)
+# ---------------------------------------------------------------------------
+from pathlib import Path as _Path
+REPO_ROOT = _Path(__file__).resolve().parents[1]
+
+# ---------------------------------------------------------------------------
+# Parent datasets  (absolute paths, resolved from REPO_ROOT)
 # ---------------------------------------------------------------------------
 N_PARENTS   = 1000
 RANDOM_SEED = 42
 
 # Development / initial benchmark set (1000 parents)
-PARENT_DATASET = "../data/chembl_1000_parents.csv"
+PARENT_DATASET = str(REPO_ROOT / "data" / "chembl_1000_parents.csv")
 
 # Independent test set — created by 00_prepare_independent_test.ipynb
 # Used for the primary results reported in the manuscript.
-INDEPENDENT_TEST_DATASET = "../data/chembl_independent_test.csv"
+INDEPENDENT_TEST_DATASET = str(REPO_ROOT / "data" / "chembl_independent_test.csv")
 
 # To run the benchmark on the independent test set, set:
 #   ACTIVE_PARENT_DATASET = INDEPENDENT_TEST_DATASET
@@ -21,10 +27,10 @@ INDEPENDENT_TEST_DATASET = "../data/chembl_independent_test.csv"
 ACTIVE_PARENT_DATASET = INDEPENDENT_TEST_DATASET   # ← primary results use this
 
 # ---------------------------------------------------------------------------
-# Results output
+# Results output  (absolute Path, resolved from REPO_ROOT)
 # ---------------------------------------------------------------------------
 # New benchmark results (04 methods, independent test set)
-RESULTS_DIR = "../results/new_benchmark"
+RESULTS_DIR = REPO_ROOT / "results" / "new_benchmark"
 
 # Legacy results from previous benchmark are in results_legacy/
 # Do not write to results_legacy/ — read-only reference only.
