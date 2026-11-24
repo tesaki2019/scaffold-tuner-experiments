@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Download REINVENT4 LibInvent prior from Zenodo
-# Official record: https://doi.org/10.5281/zenodo.15641296
+# Official version record: https://zenodo.org/records/20701824
+# (Concept DOI: https://doi.org/10.5281/zenodo.15641296)
 # Compatible with REINVENT4 4.9.x
 # Run from repository root: bash scripts/download_priors.sh
 
@@ -9,7 +10,7 @@ set -euo pipefail
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 PRIOR_DIR="${REPO_ROOT}/external/reinvent4_priors"
 PRIOR_FILE="${PRIOR_DIR}/libinvent.prior"
-ZENODO_URL="https://zenodo.org/records/15641296/files/libinvent.prior?download=1"
+ZENODO_URL="https://zenodo.org/records/20701824/files/libinvent.prior?download=1"
 
 mkdir -p "${PRIOR_DIR}"
 
@@ -18,7 +19,7 @@ if [ -f "${PRIOR_FILE}" ]; then
     exit 0
 fi
 
-echo "Downloading LibInvent prior from Zenodo record 15641296 ..."
+echo "Downloading LibInvent prior from Zenodo version record 20701824 ..."
 echo "  URL: ${ZENODO_URL}"
 curl -L --fail --progress-bar -o "${PRIOR_FILE}" "${ZENODO_URL}"
 

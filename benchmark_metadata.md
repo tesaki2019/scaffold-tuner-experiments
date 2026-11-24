@@ -15,9 +15,9 @@
 | Item | Value |
 |---|---|
 | **Filename** | `libinvent.prior` |
-| **Source** | Zenodo record 15641296 |
+| **Source** | Zenodo version record 20701824 (Concept DOI: 10.5281/zenodo.15641296) |
 | **DOI** | https://doi.org/10.5281/zenodo.15641296 |
-| **Download URL** | https://zenodo.org/records/15641296/files/libinvent.prior?download=1 |
+| **Download URL** | https://zenodo.org/records/20701824/files/libinvent.prior?download=1 |
 | **Compatible with** | REINVENT4 4.9.x |
 | **SHA-256** | *(to be recorded after download — run `sha256sum external/reinvent4_priors/libinvent.prior`)* |
 
@@ -31,14 +31,14 @@ Or manually:
 
 ```bash
 curl -L -o external/reinvent4_priors/libinvent.prior \
-  "https://zenodo.org/records/15641296/files/libinvent.prior?download=1"
+  "https://zenodo.org/records/20701824/files/libinvent.prior?download=1"
 ```
 
 ### Notes on prior compatibility
 
-- Zenodo record **15641296** is the official prior repository for REINVENT4 4.x.
-- The older record 15641297 contains priors trained with an earlier version and
-  fails the hash validation introduced in REINVENT4 ≥ 4.9.x.
+- Zenodo **version record 20701824** is the correct download target for REINVENT4 4.9.x.
+- The concept DOI (10.5281/zenodo.15641296) always redirects to the latest version.
+- Older records (15641297, etc.) contain priors with incompatible hash formats.
 - After download, record the SHA-256 in this file to enable full reproducibility.
 
 ## Benchmark datasets
